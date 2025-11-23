@@ -11,7 +11,7 @@ Bring your phone to life with stunning 4K wallpapers. Search, explore, and perso
 ## 🚀 Coming Soon
 📥 Google Play link will be added soon  
 Stay tuned for release updates!
----
+--
 ## 🛠 Tech Stack
 - Kotlin
 - Jetpack Compose
